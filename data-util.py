@@ -2,3 +2,9 @@
 
 # a function that will return the current year
 
+# a function that will return the datestamp
+
+# a function that will return the current month
+
+
+
